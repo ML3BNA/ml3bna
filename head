@@ -1,0 +1,9 @@
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "c69de527-9352-4076-90f5-972c0d9081fd",
+    });
+  });
+</script>
